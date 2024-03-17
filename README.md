@@ -12,3 +12,9 @@ The app supports the following categories of aggression:
 - Political Aggression
 - Verbal Aggression
 - Gendered Aggression
+
+## Demo
+
+[Click here to view the demo](https://bangla-aggressive-text-detection-app.streamlit.app/)
+
+
